@@ -25,6 +25,12 @@ jobs:
       - name: Fetch latest TEC register
         run: python fetch_tec_register.py
 
+      - name: Debug - list files
+        run: |
+          pwd
+          ls -la
+          ls -la data/ || echo "data folder does not exist"
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
