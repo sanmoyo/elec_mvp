@@ -99,7 +99,7 @@ def build_report(diff, new_lookup):
             name = new_lookup.get(key, {}).get("Project Name", key)
             lines.append(f"- **{name}**")
             for col, vals in watched.items():
-                lines.append(f"    - {col}: {vals['old']} → {vals['new']}")
+                lines.append(f"    - {col}: {vals[0]} → {vals[1]}")
         lines.append("")
 
     noise_count = len(changed) - len(meaningful)
