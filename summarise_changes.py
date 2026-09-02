@@ -38,6 +38,15 @@ WATCHED_COLUMNS = {
 
 DATA_PATH = "data/tec_register.csv"
 
+def is_real_change(old_val, new_val):
+    """Ignore differences that are just numeric formatting (e.g. '0.00' vs '0')."""
+    try:
+        return float(old_val) != float(new_val)
+    except (ValueError, TypeError):
+        return old_val != new_val  # not numeric, compare as plain text
+
+
+
 
 def get_git_previous_version(path):
     """Return the file's contents as they were in the previous commit."""
