@@ -1,0 +1,1244 @@
+Total unique connection sites in register: 1237
+
+=== 19 candidate South West sites (review these) ===
+  - Alverdiscott 400kV Substation
+  - Axminster 132kV Substation
+  - Axminster 400kV Substation
+  - Bridgwater 400/132kV Substation
+  - Bridgwater GSP
+  - Devonside 132/33kV
+  - Devonside 132kV Substation
+  - Exeter 132kV Substation
+  - Exeter 400kV Substation
+  - Exeter GSP
+  - Exeter Main 400kV Substation
+  - Hinkley Point 400kV Substation
+  - Indian Queens 400kV Substation
+  - Landulph 400kV Substation
+  - Landulph GSP
+  - Langage 400kV Substation
+  - Shurton 400kV Substation
+  - Taunton 400kV Substation
+  - Taunton GSP
+
+=== 1218 sites NOT matched (skim for anything missed) ===
+  - 132kV bay at Iron Acton Substation
+  - 17 ACRES BESS 275KV SUBSTATION
+  - A'Chruach Wind Farm 275kV Substation
+  - ACHANY EXTENSION WIND FARM 132/33KV Substation
+  - AGS CALDERSIDE 275KV  SUBSTATION
+  - AGS Harestonhill BESS 400kV Substation
+  - ALCEMI SCORE BATTERY ENERGY STORAGE FACILITY 400KV SUBSTATION
+  - ALYTH BESS STATION 400KV SUBSTATION
+  - APPLEFORD 400kV SUBSTATION
+  - AYR DBB 275KV SUBSTATION
+  - Aberarder Extension Wind Farm 132/33kV Substation
+  - Aberarder Wind Farm 132/33kV Substation
+  - Aberdeen Bay 132kV Substation
+  - Abernethy 2 GSP
+  - Abernethy GSP
+  - Aberthaw 132kV Substation
+  - Aberthaw 275kV Substation
+  - Aberthaw B 275/132kV Substation
+  - Abhainn Dubh Wind Farm 132kV Substation
+  - Abham 132kV Substation
+  - Abham GSP
+  - Acheilidh Wind farm 132kV Substation
+  - Achrugan 132kV Substation
+  - Aigas Hydro 132kV Substation
+  - Airds Hill WindFarm 132kV Substation
+  - Alcemi Score Battery 400kV Substation
+  - Alness 2 275/33 kV GSP Substation
+  - Alness GSP
+  - Alyth 400kV Substation
+  - Alyth Solar and Battery 400/132kV
+  - Amersham Main 132kV Substation
+  - Amersham Main 400kV Substation
+  - An Suidhe 275/33kV
+  - Andrew BESS 132kV Substation
+  - Appin Wind Farm 132kV Substation
+  - Appleford 400kV
+  - Arbroath 2 132/33kV GSP Substation
+  - Arbroath GSP
+  - Ardkinglas GSP
+  - Arecleoch 132/33kV
+  - Armadale 132kV Substation
+  - Arnish 275kV Substation
+  - Arnish Lewis Hub 400kV Substation
+  - Arresgill 132kV Substation
+  - Artfield Forest Wind Farm 132kV Substation
+  - Auchentiber Farm BESS 400kV Substation
+  - Auldhouse 400kV Substation
+  - Aultmore Wind Farm 132/33kV Substation
+  - Ayr 275/33kV
+  - Ayr 275/33kV Substation
+  - Ayr Farm Collector Substation
+  - Ayr GSP
+  - Ayrshire Grid 400kV Collector Substation
+  - Ayrshire Grid 400kV Substation
+  - BALLYGROGGAN 132/33KV SUBSTATION
+  - BEAULY 02 BESS 132kV SUBSTATION
+  - BEINN THURSUNN REPOWER 275/33KV
+  - BENDLE FARM 2.0 132KV SUBSTATION
+  - BISHOPS DAL ENERGY PARK 132kV SUBSTATION
+  - BLAIR HILL WIND FARM 132KV SUBSTATION
+  - BORDERS SOLAR 132/33KV SUBSTATION
+  - BRORA 132/33KV GRID SUPPLY POINT SUBSTATION
+  - BURBO BANK EXTENSION OFFSHORE Substation
+  - Baillie 275KV Substation
+  - Bainsford 132/33kV
+  - Balinoe 132kV substation
+  - Balliemeanoch 275kV Substation
+  - Balnespick Wind Farm 132kV/33kV Substation
+  - Bankend Rig III Windfarm 132/33kV Substation
+  - Bankhead 400kV Substation
+  - Banniskirk 400kV Substation
+  - Bargatton Farm BESS 132kV Substation
+  - Barking West GSP
+  - Barrow 132/33kV Offshore Substation
+  - Basingstoke East 400kV Substation
+  - Beatrice 400kV Substation
+  - Beauly 132/33 kV GSP Substation
+  - Beauly GSP
+  - Beauly substation 275KV
+  - Beaw Field 132/33kV Substation
+  - Beech Street/City Road Substation
+  - Beinn an Tuirc Substation
+  - Beinneun 132kV Substation
+  - Beinneun Windfarm 2
+  - Benbrack Wind Farm 132/33kV Substation
+  - Bendle Farm 132kV Substation
+  - Bendsmoor BESS 400Kv Substation
+  - Berkswell 275kV Substation
+  - Berkswell B 275kV Substation
+  - Berkswell GSP
+  - Berry Burn GSP
+  - Berryburn 275/33kV GSP Substation
+  - Berwick 132/33kV
+  - Bhlaraidh 132/33kV Substation
+  - Bicker Fen 400kV Substation
+  - Bicker Fen GSP
+  - Biggleswade 400kV Substation
+  - Birkenhead 275kV Substation
+  - Birkhill Wood 400kV Substation
+  - Bishopbriggs BESS 400/275kV Substation
+  - Bishops Wood 132kV Substation
+  - Bishops Wood GSP
+  - Bispham Primary 33kV Substation
+  - Blackbraes IDNO GSP
+  - Blackcraig 132/33kV
+  - Blackhill 132/33kV
+  - Blackhillock 275kV Substation
+  - Blackhillock 400kV Substation
+  - Blackhillock substation
+  - Blacklaw 132/33kV
+  - Blacklaw Extension 132/33kV
+  - Blarghour Substation
+  - Bloch Energy Park 132kV Substation
+  - Blyth 275kV Substation
+  - Blyth 400kV Substation
+  - Blyth GSP
+  - Bodelwyddan 400kV Substation
+  - Bodinglee Wind Farm 132kV
+  - Bolney 132kV Substation
+  - Bolney 400kV Substation
+  - Bolney GSP
+  - Bonnybridge 132/33kV
+  - Bonnybridge 275/33kV Substation
+  - Borders Connection Node A 400kV
+  - Borders Connection Node A 400kV Substation
+  - Borders Windfarm 132kV
+  - Botley 400kV Substation
+  - Botley West 400kV Substation
+  - Bowsheils 132kV Substation
+  - Boydston 400kV substation
+  - Braco West GSP
+  - Bradford West 275kV Substation
+  - Braegrundie Farm 132kV Substation
+  - Braehead Park 132/33kV
+  - Braeside IDNO 132/33kV substation
+  - Braidfield Battery Storage 132kV Substation
+  - Braintree 400kV Substation
+  - Braintree GSP
+  - Bramford 132kV
+  - Bramford 400kV Substation
+  - Bramford B 400kV Substation
+  - Bramley
+  - Bramley 400kV Substation
+  - Bramley GSP
+  - Branxton 400/132kV
+  - Branxton 400kV Substation
+  - Braxbess 400/132kV Collector Substation
+  - Braybrooke (Network Rail) GSP
+  - Braybrooke 400kV Substation
+  - Breackerie 132kV Substation
+  - Breakish 132kV Substation
+  - Brechin 400/275 kV Substation
+  - Bredbury 275kV Substation
+  - Bridge of Dun GSP
+  - Bridgewater 400kV Substation
+  - Brimsdown 132kV Substation
+  - Brinsworth 400kV Substation
+  - Brinsworth B 400kV Substation
+  - Broadford 132kV Substation
+  - Broadford GSP
+  - Broken Cross 132/33kV
+  - Brora GSP
+  - Broxburn 132/33kV
+  - Bulls Lodge 400kV Substation
+  - Burwell 132kV Substation
+  - Burwell 400kV Substation
+  - Burwell GSP
+  - Burwell Main 400kV Substation
+  - Burwell South 400kV Substation
+  - Busby 275kV
+  - Bushbury 275kV Substation
+  - Bustleholm 132kV Substation
+  - Bustleholm GSP
+  - Butlers Wood 400kV Substation
+  - CAITHNESS ENERGY STORAGE 400KV SUBSTATION
+  - CARRADALE 3 132/33KV GRID SUPPLY POINT SUBSTATION
+  - CELTIC SEA 275/66KV OFFSHORE SUBSTATION
+  - CHALMERSTON WINDFARM 132kV SUBSTATION
+  - CRAIG WATCH WIND FARM 132KV SUBSTATION
+  - CRAIGHEAD WIND FARM 132kV SUBSTATION
+  - Cairnford GSP
+  - Callisterhall 132kV
+  - Camblesforth 66kV Substation
+  - Canterbury North 400kV Substation
+  - Caorach 132 KV Substation
+  - Capenhurst 275kV Substation
+  - Capenhurst 400kV Substation
+  - Capenhurst GSP
+  - Caple Rig 132kV Substation
+  - Car Duibh 275kV Substation
+  - Carn Fearna Wind Farm 132/33kV Substation
+  - Carntyne 132/33kV
+  - Carradale 1 GSP
+  - Carraig Gheal 132/33kV Substation
+  - Carrick Wind Farm Substation
+  - Carrington 275kV Substation
+  - Carrington 400KV Substation
+  - Carrington GSP (SP Manweb)
+  - Cashlie GSP
+  - Cassley GSP
+  - Castlemilk 400kV Substation
+  - Ceannacroc GSP
+  - Ceislien Wind Farm
+  - Cellarhead 132kV Substation
+  - Cellarhead 400kV Substation
+  - Chapelcross 132/33kV
+  - Chapelcross GSP
+  - Charleston GSP 132/33kV
+  - Cheshire Connection Node A 400kV Substation
+  - Cheshire Connection Node A2 400kV
+  - Cheshire Connection Node B 400kV Substation
+  - Chessington 132kV
+  - Chesterfield 400kV Substation (Not yet constructed)
+  - Chesterfield GSP
+  - Chickerell 400kV Substation
+  - Chickerell B 400kV Substation
+  - Chickerell-Mannington 400kV Substation
+  - Chiltern Connection Node A 400kV Substation
+  - Chiltern Connection Node B 400kV Substation
+  - Chiltern Connection Node C 400kV Substation
+  - Chiltern Connection Node D 400kV
+  - Chirk 132kV
+  - Chirk GSP
+  - Chirmorie Wind Farm substation
+  - Chleansaid Wind Farm 132kV Substation
+  - Cilfynydd 400kV Substation
+  - Clachan 2 132/33kV GSP Substation
+  - Clash Gour Wind Farm 132kV Substation
+  - Clashindarroch Substation
+  - Clashindarroch Windfarm Extension 132kV Substation
+  - Clauchrie 132/33KV Substation
+  - Cleve Hill 400kV Substation
+  - Cloich 132kV Substation
+  - Clune 132/33 kV Substation
+  - Clunie GSP
+  - Clyde North 275/33kV
+  - Clyde South 275/33kV
+  - Clydesmill 275/33kV
+  - Cnoc Buidhe 132kV/33kV Substation
+  - Coachford 400kV Substation
+  - Coalburn 132kV
+  - Coalburn 400/132kV
+  - Coalburn 400kV GIS Substation
+  - Coalburn 400kV Substation
+  - Coalburn North 400kV Substation
+  - Coatbridge GSP
+  - Cockenzie 275/33kV Substation
+  - Cockenzie 275kV substation
+  - Cockenzie 400/275kV
+  - Coddington 400kV Substation
+  - Coille Linne 132kV Substation
+  - Coire Glas GSP
+  - Conland Substation
+  - Connagill 132kV Substation
+  - Connagill 275kV Substation
+  - Connah's Quay 400kV Substation
+  - Corby 132kV Substation
+  - Correen Hills Wind Farm 132kV Substation
+  - Corriegarth 132/33kV substation
+  - Corriemoillie 132/33kV Substation
+  - Corriemoillie 132kV Substation
+  - Corriemoillie 2 400/132kV Substation
+  - Coryton South 400kV Substation
+  - Cott's Farm 132kV Substation
+  - Cottam 400kV Substation
+  - Cottered 400kV Substation
+  - Coupar Angus 132/33kV GSP
+  - Coupar Angus 2 GSP
+  - Cousland 400kV
+  - Coventry 275kV Substation
+  - Cowley 400kV Substation
+  - Cowley GSP
+  - Coylton 132/33kV
+  - Coylton 275/132kV
+  - Coylton 275/33kV Substation
+  - Coylton 275kV substation
+  - Craig Moss Farm 132kV Substation
+  - Craig Murrail 275/33kV GSP Substation
+  - Craig Murrail 275kV Substation
+  - Craig Murrail GSP
+  - Craigdarroch Hybrid Wind & BESS 132kV Substation
+  - Craigneuk 250MW BESS 275kV Substation
+  - Creachan Wind Farm 132/33kV Substation
+  - Creag Dhubh 275/132/33kV
+  - Creag Dhubh Wind Farm and BESS 132kV Substation
+  - Creag Riabhach 132/33kV Substation
+  - Creyke Beck 132kV
+  - Creyke Beck 400kV Substation
+  - Creyke Beck GSP
+  - Crossaig 132kV Substation
+  - Crossdykes 33kV
+  - Cruachan 275kV Substation
+  - Crystal Rig 132/33kV
+  - Crystal Rig 400kV substation
+  - Culham Jet 400kV Substation
+  - Culligran GSP
+  - Cumberhead 33kV
+  - Cumberhead Collector 132/33kV
+  - Cumbernauld 132/33kV
+  - Currie 275/132kV
+  - Cwm Rheidol
+  - DALMARNOCK 132/33KV SUBSTATION
+  - DERBYSHIRE CONNECTION NODE E 132 KV SUBSTATION
+  - DERBYSHIRE CONNECTION NODE E 132KV SUBSTATION
+  - DEUCHERAN HILL 2 132KV SUBSTATION
+  - DEVOL MOOR 132/33KV GRID SUPPLY POINT SUBSTATION
+  - DEWLEY HILL EHV
+  - DIDCOT 400/132KV SUBSTATION
+  - DOUNREAY 2 275 kV SUBSTATION
+  - DRAGON GREEN 400kV SUBSTATION
+  - DRUM OF CLUNAS WIND 275KV SUBSTATION
+  - DUNACH WIND 132KV SUBSTATION
+  - Daer Wind Farm 132/33kV
+  - Daines 400kV Substation
+  - Dalchork 132kV Substation
+  - Dalkeith 400kV Substation
+  - Dalmarnock Storage BESS 132kV Substation
+  - Deanie GSP
+  - Dell 132kV Substation
+  - Denny North
+  - Denny North 275/132kV
+  - Derbyshire Connection Node A 400kV Substation
+  - Derbyshire Connection Node B 400kV Substation
+  - Derbyshire Connection Node C 400kV Substation
+  - Derbyshire Connection Node D 400kV Substation
+  - Derbyshire Connection Node E 400kV Substation
+  - Derbyshire Connection Node F 132KV
+  - Derbyshire Connection Node G 400kV
+  - Derbyshire Connection Node H 400kV Substation
+  - Derbyshire Connection Node I 400kV Substation
+  - Dersalloch 132/33kV
+  - Devilla Battery Storage 275kV substation
+  - Devol Moor 132kV Substation
+  - Devol Moor 400/132kV
+  - Didcot 132kV GIS Substation
+  - Didcot 132kV Substation
+  - Didcot 400kV Substation
+  - Dinorwig 400kV Substation
+  - Divot Hill 132/33 kV Substation
+  - Dogger Bank 220kV Offshores
+  - Dorenell 132/33kV Substation
+  - Dorenell BESS 132KV substation
+  - Dorenell Extension Wind Farm 400kV Substation
+  - Douglas West Extension Windfarm
+  - Dounreay 2 275/33kV GSP Substation
+  - Dounreay GSP
+  - Drakelow 132kV Substation
+  - Drakelow 400kV Substation
+  - Drax 132kV Substation
+  - Drax 400kV Substation
+  - Drinkstone Hybrid 132/33kV substation
+  - Drumchapel 275/33kV
+  - Drummuir Windfarm at Keith 33kV Grid Supply Point
+  - Dumfries 132/33kV
+  - Dumfries North 400/132kV substation
+  - Dumfries North 400kV
+  - Dun Hill 132/33kV
+  - Dunan Hill 400kV substation
+  - Dunbar 132/33kV
+  - Dunfermline 132/33kV
+  - Dungeness 275kV Substation
+  - Dungeness 400kV Substation
+  - Dunlaw Extension 132/33kV
+  - Dunlop 132kV Substation
+  - Dunmaglass 132kV Substation
+  - Dunoon GSP
+  - Dunstable 400kV Substation
+  - Dunvegan 132/33kV Grid Supply Point Substation
+  - Dyce 132/33kV GSP
+  - Dyce 132/33kV Substation
+  - EA2A and EA2B 275/66kV Offshore Platform
+  - EAST KENT CONNECTION NODE B 132KV SUBSTATION
+  - ECOKILWINNING 132KV SUBSTATION
+  - ELSTREE B 275KV SUBSTATION
+  - ELVANFOOT ENERGY STORAGE 132/33KV COLLECTOR SUBSTATION
+  - EQUINOR 66KV OFFSHORE SUBSTATION
+  - ERBYSHIRE CONNECTION NODE E 132kV  SUBSTATION
+  - Earba PSH Powerhouse Substation
+  - Earl Shilton 275kV
+  - Earl Shilton 400kV Substation
+  - Earraghail 275/33KV Substation
+  - East Anglia Connection Node E 400kV Substation
+  - East Anglia Project Three Offshore Platform
+  - East Claydon 400kV Substation
+  - East Claydon GSP (NGED EM)
+  - East Kent Connection Node B 400kV Substation
+  - East Kent connection node A 400kV Substation
+  - East Kilbride 275/33kV GSP
+  - East Kilbride 275kV Substation
+  - East Kilbride B 275/33kV Substation
+  - Easterhouse 275kV
+  - Eaton Socon 400kV Substation
+  - Eccles 400/132kV
+  - Eccles 400kV Substation
+  - Eccles GSP
+  - Ecomossmorran 400kV Substation
+  - Edinbane 132/33kV Substation
+  - Eggborough 400kV Substation
+  - Elchies 132/33kV Substation
+  - Elderslie 132/33kV
+  - Elgin GSP
+  - Elland 132kV Substation
+  - Elmya Grange 400kV
+  - Elton (Merseyside 132kV Substation)
+  - Elvanfoot 275/132/33kV
+  - Elvanfoot 400/275/33kV
+  - Elvanfoot substation
+  - Enderby 400kV Substation
+  - Energy Isles 132kV Substation
+  - Enoch Hill 132/33kV Substation
+  - Enoch Hill 2 Wind Farm 33kV Substation
+  - Er Bbr Energy 132kV Substation
+  - Er Msm Energy 132kV Substation
+  - Eredine GSP
+  - Errochty 132kV Substation
+  - Erskine 132/33kV
+  - Euchanhead 132kV Substation
+  - Ewehill 132/33kV
+  - FARR WIND FARM 132/33KV SUBSTATION
+  - FIELD GLENNISTON BESS 132KV SUBSTATION
+  - FORSA ENERGY DENNY BESS 132KV GRID SUPPLY POINT SUBSTATION
+  - FORT AUGUSTUS 2 400/33kV GRID SUPPLY POINT SUBSTATION
+  - Fairburn Extension 132/33kV Substation
+  - Fallago 400/33kV
+  - Fasnakyle GSP
+  - Fawley 132kV Substation
+  - Fawley 400kV Substation
+  - Fawley GSP
+  - Fearna Pump Storage Hydro 2 400/15kV Substation
+  - Feckenham 400kV Substation
+  - Feckenham GSP
+  - Ferrybridge B 132kV Substation
+  - Ferrybridge C 275kV Substation
+  - Fetteresso 132/33kV GSP Substation
+  - Fetteresso 132kV substation
+  - Fetteresso GSP
+  - Ffestiniog 275kV Substation
+  - Fiddes GSP
+  - Fiddlers Ferry 275kV Substation
+  - Fife Energy Centre 132kV substation
+  - Fife Grid Services Facility 275kV Substation
+  - Finnieston 132/33kV Substation
+  - Finstown (Orkney) GSP
+  - Finstown GSP
+  - Five Estuaries 220/66 kV Offshore Substation
+  - Fleet 132KV Substation
+  - Fleet 400kV Substation
+  - Folly Farm 132kV Substation
+  - Fort Augustus 2 400kV Substation
+  - Fort Augustus 400kV
+  - Fort Augustus GSP
+  - Foyers 275kV Substation
+  - Friston 400kV Substation
+  - Frodsham (Network Rail) GSP
+  - Frodsham 132kV
+  - Frodsham 400kV Substation
+  - Future Swansea North 132kV
+  - Fyrish 132kV Substation
+  - Fyrish 275kV Substation
+  - GALA NORTH 132KV SUBSTATION
+  - GALILEO 07 LIMITED 132KV SUBSTATION
+  - GARTCLASH COLLECTOR 275KV SUBSTATION
+  - GH DEVCO KINCARDINE BESS 132kV SUBSTATION
+  - GLENTAGGART 150MW BESS 132kV SUBSTATION
+  - GLENTARKEN WIND FARM 132/33KV SUBSTATION
+  - Gabbard 33/132kV Offshore Substation
+  - Gala North 400/132kV Substation
+  - Galashiels 132/33kV
+  - Galawhistle 132/33kV Substation
+  - Galileo 16 132kV Substation
+  - Galloper North 132/33kV Substation
+  - Garlogie Production A 275/33kV GSP
+  - Garlogie Production B 275/33kV GSP
+  - Garlogie Production C 275/33kV GSP
+  - Garscadden Park 275kV Substation
+  - Garvary 132kV Substation
+  - Giffnock 275/33kV
+  - Giffordland 400/132kV
+  - Gills Bay 132kV
+  - Gills Bay GSP
+  - Glen App 33kV
+  - Glen Earrach PSH 400kV substation
+  - Glen Kyllachy Wind Farm Substation
+  - Glen Lednock 132kV Substation
+  - Glen Ullinish 132/33kV Substation
+  - Glen Ullinish Extension 132/33kV Substation
+  - Glendye Wind Farm Substation
+  - Glenglass 132/33kV
+  - Glenluce 132/33kV
+  - Glenmoriston GSP
+  - Glenmuckloch 132/33kV
+  - Glenmuckloch 132kV Substation
+  - Glenmuir Windfarm 132kV Substation
+  - Glennifer Road BESS 132kV substation
+  - Glenniston GSP
+  - Glenrothes 275/33kV
+  - Glenrothes GSP
+  - Glentaggart WF 33kV Substation
+  - Glenvernoch 132kV
+  - Gordonbush GSP
+  - Gorstage 400kV Substation
+  - Govan 132/33kV
+  - Grain 400kV Substation
+  - Grain West 400kV Substation
+  - Grangemouth Ineos GSP
+  - Gravity 400kV Substation
+  - Greenburn Mixed Technology 132kV Substation
+  - Greenock Road 275kV Substation
+  - Greens 400kV Substation
+  - Grendon 132kV Substation
+  - Grendon 400kV Substation
+  - Gresham House Dalmarnock Bess 132kv Substation
+  - Gresham House Gretna 400/132kv Substation
+  - Gresham House Kincardine BESS 275/132kV substation
+  - Gretna 400/132kV
+  - Greystones A 275kV Substation
+  - Greystones B 275kV Substation
+  - Griffin 132/33kV Substation
+  - Grimsby West 132kV Substation
+  - Grimsby West 400/132 GSP
+  - Grimsby West 400kV Substation
+  - Grimsby West GSP
+  - Grimshader Wind Farm Substation132 KV
+  - Grudie Bridge GSP
+  - Gunfleet Sands 33/132kV Offshore
+  - Gwyddelwern 400kV Substation
+  - Gwynt y Mor 132/33kV Offshore Substation
+  - HIGH BARDRAIN WOOD & MOOR 132KV SUBSTATION
+  - HIGH MATHERNOCK 132KV SUBSTATION
+  - Hadleigh 400kV Substation
+  - Haggs Road GSP
+  - Hagshaw Hill Wind Farm 33kV Substation
+  - Hagshaw Repowering Phase 3 132kV
+  - Halbeath 132kV Substation
+  - Hams Hall 400kV Substation
+  - Harburn 132/33kV Grid Supply Point Substation
+  - Harburn 400kV
+  - Hare Craig 33kV Substation
+  - Hare Hill Repowering 132/33kV Substation
+  - Harestanes West Wind Farm 132/33kV
+  - Harker 132kV Substation
+  - Harker 400/132KV Substation
+  - Harker 400kV Substation
+  - Harker GSP
+  - Harlaston 400kV Substation
+  - Hartlepool 275kV Substation
+  - Hartmoor 275kV Substation
+  - Hartmoor GSP
+  - Hatfield 33kV Substation
+  - Hawick 132kV Substation
+  - Hawick GSP
+  - Hawkers Hill
+  - Hawkwood Windfarm 33kV Substation
+  - Hawthorn Pit 400kV Substation
+  - Hawthorn Pit GSP
+  - Heastabhal Wind Farm Substation 132 KV
+  - Heathland 132/33kV Substation
+  - Hedon 275kV Substation
+  - Helensburgh 132/33kV
+  - Heysham GSP
+  - High Constellation 132/33kV Substation
+  - High Marnham 275kV Substation
+  - High Marnham 400kV Substation
+  - Highland BESS 132kV Substation
+  - Highland Wind Farm 132/33kV substation
+  - Hirwaun GSP
+  - Holes Bay Battery Storage
+  - Hollandmey Renewable Energy Development132/33kV Substation
+  - Holm Hill 132kV Substation
+  - Hope 400kV Substation
+  - Hopsrig Collector 132/33kV Substation
+  - Hopsrig Collector Substation
+  - Hornsea Platform 1A Offshore Substation
+  - Hornsea Platform 1B Offshore Substation
+  - Hornsea Platform 1C Offshore Substation
+  - Hornsea Platform 2A Offshore Substation
+  - Hornsea Platform 2B Offshore Substation
+  - Hornsea Power Station 2C Offshore platform Substation
+  - Humber Gateway 33/132kV Offshore Substation
+  - Humber Refinery 400kV Substation
+  - Hunningley 132kV Substation
+  - Hunterston 400/132kV
+  - Hunterston East 400kV
+  - Hunterston East 400kV substation
+  - Hurlie 400kV substation
+  - Hurst 275kV Substation
+  - Hutton 132kV Substation
+  - Hutton 400kV Substation
+  - ICHRACHAN 132/33KV GRID SUPPLY POINT SUBSTATION
+  - IMW01 OFFSHORE 275/66KV OFFSHORE SUBSTATION
+  - INVERNESS 132/33KV GRID SUPPLY POINT SUBSTATION
+  - Imperial Park 400kV Substation
+  - Imperial Park B 400kV Substation
+  - Invergarry 132kV Substation
+  - Inverkeithing 132/33kV
+  - Inverkeithing GSP
+  - Inverness GSP
+  - Inveroykel Wind Farm 132kV
+  - Iron Acton 132kV Substation
+  - Iron Acton 275kV Substation
+  - Ironbridge 400kV Substation
+  - Iver 275kV Substation
+  - Jersey Farm 400kV Substation
+  - Jonhstone 132/33kV Substation
+  - Jubilee Farm 275kV Substation
+  - KINGSNORTH B 400KV SUBSTATION
+  - KXP Alpha 3 Ayr BESS 275kV Substation
+  - Kaimes GSP
+  - Keadby 400kV Substation
+  - Keadby GSP
+  - Kearsley 132kV substation
+  - Kearsley 275kV Substation
+  - Kegworth B (Derbyshire Connection Node C) 132kV Substation
+  - Keith 1 132/33kV GSP Substation
+  - Keith 132kV Substation
+  - Keith 2 132/33kV GSP Substation
+  - Keith GSP
+  - Keith Hill 33kV
+  - Keith Solar Farm 275kV Substation
+  - Kellas Wind Farm 132kV Substation
+  - Kellingley 400kV Substation
+  - Kellingley IDNO GSP
+  - Kelloe Mains 400kV Substation
+  - Kemsley 400kV Substation
+  - Kemsley GSP
+  - Kergord GSP
+  - Kilbraur Wind Farm Substation
+  - Kilgallioch 275kV Substation
+  - Killermont 132/33kV
+  - Killin 132/11kV Substation
+  - Killin GSP
+  - Killingholme 400kV Substation
+  - Killoch BESS 132kV Substation
+  - Kilmarnock South 400kV Substation
+  - Kilmarnock Town 275/33kV Substation
+  - Kilmorack GSP
+  - Kilwinning 132/33kV
+  - Kinardochy Substation. 400/275kV
+  - Kincardine North 400kV Substation
+  - Kingsnorth 132kV Substation
+  - Kingsnorth 400kV Substation
+  - Kingsnorth GSP
+  - Kinkell IDNO GSP
+  - Kinmuck BESS 132kV Substation
+  - Kintore 275kV
+  - Kintore GSP
+  - Kirkby 275/33kV Substation
+  - Kirkby 275kV Substation
+  - Kirkcaldy BESS 132kV Substation
+  - Knockcronal Wind Farm 33kV Substation
+  - Knocknagael 132kV Substation
+  - Knocknagael 275kV
+  - Knockodhar Wind Farm 132kV Substation
+  - Kynachan BESS 132kV Substation
+  - Kype Muir 132/33kV
+  - L48 BESS Dams of Craigie
+  - L48 BESS GLEN APP 275/132KV SUBSTATION
+  - LAND AT LEITHOLM 132KV SUBSTATION
+  - LAVENDON 400KV SUBSTATION
+  - LEARNEY BESS 132KV
+  - LESSNESSOCK ENERGY PARK 132KV SUBSTATION
+  - LGB300 400KV Substation
+  - LLYWELYN EXTENSION OFFSHORE WIND FARM 66/275KV OFFSHORE SUBSTATION
+  - LOCH GELLY COLLECTOR 132KV SUBSTATION
+  - LONGCROFT ENERGY PARK 132KV SUBSTATION
+  - Lackenby 400kV Substation
+  - Ladyburn 132kV Substation
+  - Lairdmannoch Energy Park 132kV substation
+  - Lairg GSP
+  - Laleham 132kV Substation
+  - Laleham GSP (SEPD)
+  - Lancashire Connection Node B 400kV Substation
+  - Lapwing Fen II (Walpole) IDNO Substation
+  - Lawfield and Branxton Energy Park 400kV Substation
+  - Learlielaw Energy Storage 132kV Substation
+  - Leeds North Connection Node A 400kV Substation
+  - Leeds North Connection Node B 400kV Substation
+  - Leeds North Connection Node C 132kV Substation
+  - Leeds North Connection Node C 400kV Substation
+  - Leeds North Connection Node D 400kV Substation
+  - Leeds North Connection Node E
+  - Leeds North Connection Node E 132KV Substation
+  - Leeds North Connection Node G
+  - Leeds South Connection Node B 132kV Substation
+  - Leeds South Connection Node C 400kV Substation
+  - Legacy 400kV Substation
+  - Leslie 200MW BESS 275kV Substation
+  - Letchmore Heath 132kV Substation
+  - Letham 400/275kV substation
+  - Lethans Collector 132kV Substation
+  - Lethans Collector Substation
+  - Lethen Wind Farm 132/33kV Substation
+  - Leuchland Farm IDNO
+  - Limekilns 132/33kV substation
+  - Lincolnshire Coastal Node 400kV Substation
+  - Lincolnshire Coastal Node B 400kV Substation
+  - Lincs 33/132kV Offshore Substation
+  - Linnmill 132/33kV
+  - Linnmill GSP
+  - Linwood 400kV Substation
+  - Lister Drive 132kV Substation
+  - Lister Drive 275kV Substation
+  - Little Horsted GSP
+  - Littlebrook 132kV Substation
+  - Littlebrook 400kV Substation
+  - Livingston East 132/33kV
+  - Llandyfaelog 132kV Substation
+  - Llandyfaelog 400/132kV Substation
+  - Llanteg 400kV Substation
+  - Loch Fearna Pumped Storage 400/18kV Substation
+  - Loch Kemp 275kV Switching Station
+  - Loch Liath 132/33kV Substation
+  - Loch Luichart Extension II Substation
+  - Loch Nan Eun 275/18kV
+  - Lochay GSP
+  - London Array 33/150kV Offshore Substations
+  - London North East Connection Node A
+  - London North East Connection Node A 132kv Substation
+  - London North East Connection Node A 400kV
+  - London North West Connection Node A 132kV Substation
+  - London North West Connection Node A 400kV Substation
+  - London North West Connection Node B 400kV Substation
+  - London South Connection Node A 132kV Substation
+  - London West Connection Node A 400kV Substation
+  - London West Connection Node B 400kV Substation
+  - Long Stratton 400kV
+  - Longmorn Energy Park 275kV Substation
+  - Longside 132kV Substation
+  - Longside 400kV Substation
+  - Lorg Extension Wind Farm 132/33kV Substation
+  - Lorg Wind Farm 132/32kV
+  - Lovedean 132KV Substation
+  - Lovedean 400kV Substation
+  - Luichart GSP
+  - Lunanhead 2 GSP
+  - Lunanhead GSP
+  - Lyndhurst 132/33kV
+  - Lynemore Windfarm 132kV Substation
+  - M74 West Wind Farm 132kV
+  - MERSEYSIDE CONNECTION NODE A 400KV SUBSTATION
+  - MID WALES CONNECTION NODE A 400KV SUBSTATION
+  - MIDDLETON FARM 400KV SUBSTATION
+  - Mablethorpe 400kV Substation
+  - MacDuff 132/33kV GSP Substation
+  - Machair 275/66kV Offshore Substation
+  - Maentwrog GSP
+  - Manchester South Connection Node B 400kV Substation
+  - Manchester South connection node A 400kv
+  - Mannington 400kV Substation
+  - Manquhill Wind Farm 132/33kV Substation
+  - Marchwood 400kV Substation
+  - Margam 275kV Substation
+  - Margam B 400kV Substation
+  - Margree 132kV Collector Substation
+  - Mark Hill 275/132kV
+  - Market Harborough 400kV Substation
+  - Marston Vale 400kV Substation
+  - Maybole 132/33kV
+  - Maybole GSP
+  - Meadowhead GSP
+  - Meadowmill 400/132kV Substation
+  - Melksham 400kV Substation
+  - Melksham B 132KV Substation
+  - Melksham B 400kV Substation
+  - Melvich Community Wind Farm 132/33kV Substation
+  - Mid Hill 132kV Substation
+  - Mid Moile Wind Farm 275/132kV Substatio
+  - Mid Wales Connection Node A
+  - Mid Wales West 132kV Substation
+  - Middlemuir 132/33kV
+  - Middlemuir Wind Farm Collector Substation
+  - Middleton 400KV Substation
+  - Mill Hill 275kV Substation
+  - Millennium GSP
+  - Milligansbush Battery Storage 132kV Substation
+  - Milton of Craigie GSP
+  - Minety 400kV Substation
+  - Minety GSP
+  - Minnygryle Burn Energy Park 132kV substation
+  - Moffat 132/33kV
+  - Moffat 400kV Substation
+  - Monk Fryston 275kV Substation
+  - Monk Fryston 400kV Substation
+  - Moray Firth 220/33kV Platform 1 & 2 Offshore Substation
+  - Mossford GSP
+  - Mossmorran Storage BESS 132KV Substation
+  - Mossy Hill 132kV Substation
+  - Muaitheabhal 132/33kV Substation
+  - Muckraw IDNO GSP
+  - Mybster 1 GSP
+  - Mybster 2 132/33kV Substation
+  - Mybster 3 132/33kV Substation
+  - Mybster 3 33kV Substation
+  - Mybster 4 132/33kV GSP Substation
+  - NATPOWER KINTORE 2 GREEN ENERGY PARK 275KV SUBSTATION
+  - NEW CARRADALE 132KV SUBSTATION
+  - NEW LIMEKILN 132 KV SUBSTATION
+  - NEW TAYNUILT 132 KV SUBSTATION
+  - NLEI Windfarm 132/33kV substation
+  - NORTH ANGLIA CONNECTION NODE A 400kV SUBSTATION
+  - NORTH KENT CONNECTION NODE C 132KV SUBSTATION
+  - Nairn 132/33kV Grid Supply Point Substation
+  - Nant 132kV Substation
+  - Nant Y Maen 132KV Substation
+  - Narie 400/132kV Substation
+  - NatPower Green Energy Park 400kV Substation
+  - NatPower Harburn Green Energy Park 400kV Substation
+  - Navenby 132kV Substation
+  - Navenby 400kV Substation
+  - Near Branxton 400kV Substation
+  - Neart Na Gaoithe 220/66KV Offshore Substation
+  - Necton 400kV Substation
+  - Neilston 132kV Substation
+  - Neilston 400kV Substation
+  - New Abernethy 132kV
+  - New Connagill 275/132kV Substation
+  - New Cumnock 275/132kV
+  - New Cumnock 275/132kV Substation
+  - New Cumnock A 132kV
+  - New Cumnock North 132kV Substation
+  - New Dalchork 132kV Substation
+  - New Deer 2 132kV Substation
+  - New Deer 2 400kV Substation
+  - New Deer 400kV Substation
+  - New Dounreay 400kV substation
+  - New East Coast 400kV Substation
+  - New North East 275kV Substation
+  - New North East Substation 400kV Substation
+  - New North West 132kV Substation
+  - New Spittal 275kV Substation
+  - Newarthill 275 kV Substation
+  - Newarthill Energy Park 275kV Substation
+  - Newchurch 400kV Substation
+  - Newlands Hill 132/33kV
+  - Newton Stewart 132/33kV
+  - Newton Stewart GSP
+  - Ninfield 400kV Substation
+  - Ninfield GSP
+  - North Anglia Connection Node A 132kV Substation
+  - North Anglia Connection Node A 400kV
+  - North Anglia Connection Node B 400kV Substation
+  - North Anglia Connection Node C 400kV Substation
+  - North Anglia Connection Node D 132kV Substation
+  - North Anglia Connection Node E 400kV Substation
+  - North Falls Offshore Platform Substation
+  - North Humber Connection Node A 400kV Substation
+  - North Humber Connection Node B 132kV Substation
+  - North Humber Connection Node C 132kV Substation
+  - North Humber Connection Node C 400kV Substation
+  - North Humber Connection Node E 400kV Substation
+  - North Kent Connection Node A 400kV Substation
+  - North Kent Connection Node B 132kV Substation
+  - North Kent Connection Node C 400kV Substation
+  - North Kyle 132/33kV substation
+  - North Lanrigg Substation
+  - North Wales connection Node A 400kV Substation
+  - NorthFleet 400kV Substation
+  - Northern Shetland 400kV Substation
+  - Northfleet East 132kV
+  - Northfleet East 400kV Substation
+  - Norton 275kV Substation
+  - Norton 400kV Substation
+  - Norton East 400kV Substation
+  - Norton GSP
+  - Norwich GSP
+  - Norwich Main 132kV
+  - Norwich Main 400kV Substation
+  - Norwich Main 400kW Substation
+  - Nursling 132kV Substation
+  - Nursling 400kV Substation
+  - Nursling GSP
+  - Oakley 400kV Substation
+  - Ochill 132kV Substation
+  - Ocker Hill 275kV Substation
+  - Ocker Hill C 132kV GSP
+  - Oldbury 275kV Substation
+  - Olivers Forest Wind Farm 132kV Substation
+  - Ormonde 33/132kV Offshore Substation
+  - Orrin GSP
+  - Osbaldwick (North Humber Connection Node E) 132kv Substation
+  - Osbaldwick 400kV Substation
+  - Ourack Wind Farm 132/33 kV Substation
+  - Overhill 132kV Substation
+  - Overton 275kV
+  - Oykel Wind Farm 132kV Substation
+  - PENINSULA ENERGY PARK 220kV SUBSTATION
+  - POLLIE HILL WIND FARM 132KV SUBSTATION
+  - Padiham 132kV Substation
+  - Paisley GSP
+  - Partrick GSP
+  - Patford Bridge 400kV Substation
+  - Peat Law Renewable Energy Park 132kV Substation
+  - Pelham 400kV Substation
+  - Pembroke 132kV Substation
+  - Pembroke 400kV Substation
+  - Pencloe 132/33kV Substation
+  - Penn 132kV Substation
+  - Penn 275kV Substation
+  - Penninghame Substation
+  - Penrhos GSP
+  - Pentir 400kV Substation
+  - Pentir GSP
+  - Pentland Floating Offshore Wind Farm 132/66kV substation
+  - Penwortham 400kV Substation
+  - Penwortham GSP
+  - Persley 132/33kV GSP Substation
+  - Peterhead 132KV Substation
+  - Peterhead 2 400kV Busbar Extension
+  - Peterhead 275kV
+  - Peterhead 400kV Substation
+  - Peterhead GSP
+  - Peterhead Grange GSP
+  - Philipaugh Substation
+  - Pitlochry (Clunie Cascade Hydro Scheme)
+  - Pitsmoor GSP
+  - Platform EA One 220/66kV Offshore Substation
+  - Pogbie 33kV
+  - Pond Flexible Energy Park 132kV Substation
+  - Pont Abraham 132KV
+  - Pont Abraham GSP
+  - Port Ham 132kV Substation
+  - Port Ham GSP
+  - Pyworthy 400kV Substation
+  - Quantans Hill 132kV Substation
+  - Quoich GSP
+  - REDSHAW 132kV B BOARD SUBSTATION
+  - ROWANCRAIG WIND FARM 33KV SUBSTATION
+  - RWE CELTIC OFFSHORE SUBSTATION
+  - Race Bank 132kV Substation
+  - Rainhill GSP
+  - Rampion 33/132kV Offshore
+  - Rannoch GSP
+  - Rassau 400kV Substation
+  - Rassau GSP
+  - Ratcliffe GSP
+  - Ratcliffe-On-Soar 132kV Substation
+  - Ratcliffe-On-Soar 400kV Substation
+  - Raventhorpe 400kV Substation
+  - Rayleigh 400kV Substation
+  - Rayleigh Main 132kV Substation
+  - Rayleigh Main 400kV Substation
+  - Rayleigh Main GSP
+  - Red Moss Farm 132kV Substation
+  - Redmoss GSP
+  - Redshaw 132kV Substation.
+  - Redshaw 400kV
+  - Rhigos 400kV Substation
+  - Rhigos B 400kV Substation
+  - Richborough 400kV Substation
+  - Richborough GSP
+  - Rivox 132/33kV
+  - Robin Rigg East 132/33kV Offshore Substation
+  - Robin Rigg West Offshore Wind Farm Substation
+  - Rochdale 132kV Substation
+  - Rochdale 275kV Substation
+  - Rochdale GSP
+  - Rocksavage 400kV Substation
+  - Roger Hill Farm 132kV substation
+  - Roosecote 132kV Substation
+  - Rothienorman 2 400/33kV GSP
+  - Rothienorman 400/33kV Substation
+  - Rothienorman 400kV Substation
+  - Rothienorman GSP
+  - Rowan 275/33kV Substation
+  - Rowdown 400kV Substation
+  - Rugeley 400kV Substation
+  - Rugeley GSP
+  - Rye House GSP
+  - Ryhall 400kV Substation
+  - SANDFORD B 400kV SUBSTATION
+  - SEABANK 400/33kV SUBSTATION
+  - SHAWFAIR 400KV SUBSTATION
+  - SOUTH HUMBER CONNECTION NODE A 132kV
+  - SOUTH WALES WEST CONNECTION NODE A 132KV SUBSTATION
+  - SPR CS1 275/66KV OFFSHORE SUBSTATION
+  - SPT Margree collector substation
+  - ST FERGUS 132KV SWITCHING STATION
+  - Saltcoats 132/33kV
+  - Saltend North GSP
+  - Saltend South 400kV Substation
+  - Saltholme 275kV Substation
+  - Sandyknowe 132/33kV
+  - Sanquhar 132/33kV
+  - Sanquhar II Wind Farm Substation
+  - Scatsta 132kV Substation
+  - Scaw Law 132kV substation
+  - Sclenteuch Energy Park 132kV
+  - Scoop Hill Wind Farm 132kV Substation
+  - Seabank 400kV Substation
+  - Seabank GSP
+  - Sealand 400kV Substation
+  - Seat Hill 132kV Substation
+  - Sellindge 132kV Substation
+  - Sellindge 400kV Substation
+  - Severn Connection Node A 132kV Substation
+  - Severn Connection Node A 400kv Substation
+  - Severn Connection Node B 400kV Substation
+  - Shaftesbury 132kV Substation
+  - Sheirdrim 132kV Substation
+  - Shepards Rig 132/33kV
+  - Sheringham Shoal 33/132kV Offshore Substations
+  - Shin 1 GSP
+  - Shrewsbury 400/33kV Substation
+  - Shrewsbury 400kV Substation
+  - Sizewell 132kV Substation
+  - Sizewell 400kV Substation
+  - Slickly Wind Farm 132kV Substation
+  - Slough East 132kV Substation
+  - Sloy GSP
+  - Smeaton 400/275kV
+  - Solent  Connection Node B 132kV Substation.
+  - Solent Connection Node A 132kV Substation
+  - Solent Connection Node C 400kV
+  - South Anglia Connection Node A 400kV Substation
+  - South Anglia Connection Node B 400kV Substation
+  - South Anglia Connection Node C 400kV Substation
+  - South Anglia Connection Node D 132kV Substation
+  - South Anglia Connection Node D 400kV Substation
+  - South Anglia Connection Node E 400kV Substation
+  - South Humber Bank 400kV Substation
+  - South Humber Connection Node A
+  - South Humber Connection Node A 400kV
+  - South Kyle 2 132/33kV Substation
+  - South Wales East Connection Node A 275kV Substation
+  - South Wales East Connection Node B 400kV
+  - South Wales East Node A 275kV Substation
+  - South Wales West Connection Node A 400kV Substation
+  - South Wales West Connection Node B 400kV Substation
+  - South Wales West Connection Node C 400kV
+  - Southery 400kV Substation
+  - Spalding North 400kV Substation
+  - Spennymoor 400kV Substation
+  - Spirebush 132kV Substation
+  - Spittal 132kV Substation
+  - Spittal 2 400kV Substation
+  - Spittal 400kV
+  - St Fergus
+  - St Fergus Mobil 132/11kV Substation
+  - Staffordshire Connection Node A 400kV Substation
+  - Staffordshire Connection Node B 132kV Substation
+  - Staffordshire Connection Node C 400Kv Substation
+  - Staffordshire Connection Node D 132kV Substation
+  - Stalybridge 275kV Substation
+  - Staythorpe 400kV Substation
+  - Staythorpe 400kv
+  - Stella South GSP
+  - Stella West 400kV Substation
+  - Stirling 132/33kV
+  - Stocksbridge 400kV Substation
+  - Stoke Bardolph 400kV Substation
+  - Stoke Bardolph GSP
+  - Stornoway GSP
+  - Stracathro BESS 275kV Substation
+  - Stranoch Wind 132/33kV Substation
+  - Strathaven 400/275kV
+  - Strathaven 400kV Substation
+  - Strathaven GSP 33kV
+  - Strathleven GSP
+  - Strathy North 132/33kV Substation
+  - Strathy South 132/33kV Substation
+  - Strathy Wood 132/33kV Substation
+  - Strichen 132/33kV GSP Substation
+  - Strichen GSP
+  - Stronelairg 132/33kV Substation
+  - Sundhope 132kV Substation
+  - Sundon 400kV Substation
+  - Sundon GSP
+  - Sussex and Romney Connection Node A 400kV Substation
+  - Sussex and Romney Connection Node B 132kV Substation
+  - Sussex and Romney Connection Node B 400kV Substation
+  - Swaffham 400KV Substation
+  - Swansea North 132kV Substation
+  - Swansea North 400kV Substation
+  - TH Renfrwshire 275kV Substation
+  - TINNISBURN WIND FARM 132KV SUBSTATION
+  - Tangy IV 132KV Substation
+  - Tarland GSP
+  - Taynuilt GSP
+  - Tealing 132kV Substation
+  - Tealing 275/33kV Substation
+  - Tealing 400kV Substation
+  - Tealing IDNO 132/33kV GSP
+  - Teeside Connection Node 2 C 132/400kV Substation
+  - Teeside Connection Node A 132kV Substation
+  - Teeside Connection Node A 400kV Substation
+  - Teeside Connection Node B
+  - Teviot 400/132kV Substation
+  - Thanet 33/132kV Offshore Substation
+  - Thetford 400kV Substation
+  - Thormanby 400kV Substation
+  - Thornton 400kV Substation
+  - Thornton B 400kV Substation
+  - Thorntonloch 400kV Substation
+  - Thorpe Marsh 400kV Substation
+  - Thorpe Marsh GSP
+  - Thurcroft 275kV Substation
+  - Thurso GSP
+  - Thurso South 132/33kV GSP Substation
+  - Thurso South 275kV Substation’
+  - Thurso South 400kV Substation
+  - Tideford 400kV Substation
+  - Tilbury 132kV Substation
+  - Tilbury 275kV Substation
+  - Tod Point 275kV Substation
+  - Toddleburn 33kV
+  - Tolkien Farm 132kV Substation
+  - Tomatin 132kV Substation Extension
+  - Tomchrasky Wind Farm 132kV Substation
+  - Tongland 132/33kV Substation
+  - Torfichen Energy Park 132kV Substation
+  - Torness 400/132kV
+  - Torr Achilty (Conan Cascade Hydro Scheme)
+  - Torridge Offshore Substation
+  - Tralorg 33kV
+  - Trawsfynydd 275kV Substation
+  - Trent Valley North Connection Node B 132kV Substation
+  - Trent Valley North Connection Node B 400kV Substation
+  - Trent Valley North Connection Node F 400kV Substation
+  - Trent Valley South Connection Node A 400k
+  - Trent Valley South Connection Node A 400kV
+  - Trent Valley South Connection Node B 400kV Substation.
+  - Trent Valley South Connection Node C 400kV Substation
+  - Trent Valley South Connection Node D 400kV Substation
+  - Trent Valley South Connection Node G 400kV Substation
+  - Triton Knoll Offshore Substation
+  - Tween Bridge 400kV
+  - Tynemouth 275kV Substation
+  - Tynemouth GSP (NPG)
+  - Upper Boat 275kV Substation
+  - Upperboat 132kV Substation
+  - Uskmouth 132kV Substation
+  - Uskmouth 275kV Substation
+  - Vale of Leven 132kV substation
+  - Vanguard East 275/66kV Offshore Substation
+  - WEST ANGLIA CONNECTION NODE B 400KV SUBSTATION
+  - Wakeleys 400kV
+  - Walham 400kV Substation
+  - Walney 1 33/132kV Offshore Substation
+  - Walney 2 33/132kV Substation
+  - Walney 3 Offshore Substation
+  - Walney 4 Offshore Substation
+  - Walpole 132kV Substation
+  - Walpole 400kV Substation
+  - Walpole 400kV substations
+  - Waltham Cross 400kV Substation
+  - Waltham Cross B 400kV Substation
+  - Warley 132kV Substation
+  - Warley 275kV Substation
+  - Warwickshire Connection Node A 400kV Substation
+  - Warwickshire Connection Node D 132kV Substation
+  - Warwickshire Connection Node F 132kV Substation
+  - Warwickshire Connection Node F 400kV Substation
+  - Washway Farm GSP
+  - Watchman 132kV Substation
+  - Wearside Connection Node A 275kV Substation
+  - Wearside Connection Node B 2 400kV Substation
+  - Wearside Connection Node B 400kV Substation
+  - Wearside Connection Node B2 400kV substation
+  - Wearside Connection Node C 400kV Substation
+  - Wearside Connection Node D 400kV Substation
+  - West Andershaw 132kV Substation
+  - West Anglia Connection Node A 400kV Substation
+  - West Anglia Connection Node C 400kV Substation
+  - West Anglia Connection Node D 400kV Substation
+  - West Anglia Connection Node E 400kV Substation
+  - West Anglia Connection Node F 400kV Substation
+  - West Anglia Connection Node G 400kV Substation
+  - West Anglia Connection Node H 400kVSubstation
+  - West Anglia Connection Node I 400kV substation
+  - West Burton 132kV Substation
+  - West Burton 400kV Substation
+  - West Country Connection Node A 400kV Substation
+  - West Country Connection Node C 400kV Substation
+  - West Country Connection Node D 400kV Substation
+  - West Country Connection Node E 400kV Substation
+  - West Haddon 400kV Substation
+  - West London Connection Node B 132kV substation
+  - West Melton GSP
+  - West Saval Substation 132 kV
+  - West Weybridge 275kV Substation
+  - West of Duddon Sands 34/155kV Offshore Substation
+  - Wester Dod 132kV
+  - Westermost Rough Offshore Substation
+  - Western Marsh 400kV
+  - Westfield 132/33kV
+  - Westfield 400kV Substation
+  - Weston Marsh 400kV Substation
+  - Wether Hill 132/33KV Substation
+  - Whitburn 400kV substation
+  - Whitegate 275kV Substation
+  - Whitehill Bess 275/132kV Substation
+  - Whitehouse 275kV Substation
+  - Whitelaw Brae 'A' and 'B' 33kV Substations
+  - Whitelaw Brae BESS  33kV substation
+  - Whitelee 275/33kV
+  - Whitelee Extension 275/33kV
+  - Whiteminhill 275/33kV Substation
+  - Whitson 275kV Substation
+  - Willesden 132kV Substation
+  - Willington 132kV Substation
+  - Willington 400kV Substation
+  - Willington East 400kV Substation
+  - Wilton 66kV Substation
+  - Windyhill 132kV
+  - Windyhill 275/132kV
+  - Wishaw 400/275kV
+  - Womblehill BESS Farm 132kV
+  - Woodcock Hill WF Substation
+  - Woolavington 400kV Substation
+  - Wrecclesham 33kV
+  - Wylfa 132kV Substation
+  - Wylfa 400kV Substation
+  - Wylfa South 400kV Substation
+  - Wymondley 2 400kV Substation
+  - Wymondley 400kV Substation
+  - Wymondley GSP
+  - Wyseby Hill Energy Farm 400kV Substation
+  - Yaxley 400kV Substation
+
+Next step: cross-check the candidate list above against the actual B13 boundary diagram (view in browser — see README/project notes for link) and manually confirm/remove entries before treating this as your B13 lookup.

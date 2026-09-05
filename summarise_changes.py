@@ -97,7 +97,7 @@ def build_report(diff, new_lookup):
     for entry in changed:
         watched = {
             col: vals for col, vals in entry["changes"].items()
-            if col in WATCHED_COLUMNS
+            if col in WATCHED_COLUMNS and is_real_change(vals[0], vals[1])
         }
         if watched:
             meaningful.append((entry["key"], watched))
