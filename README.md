@@ -1,10 +1,10 @@
 # TEC Register Watch
 
-NESO's grid connection queue (the TEC register) updates twice a week, but there's no way to see what actually changed between updates — just a snapshot that gets silently overwritten. So I built something to track it, and then used it to answer a real question: how oversubscribed is the queue in the South West, actually?
+NESO's grid connection queue (the TEC register) updates twice a week, but there's no way to see what actually changed between updates, just a snapshot that gets silently overwritten. So I built something to track it, and then used it to answer a real question: how oversubscribed is the queue in the South West, actually?
 
 ## How it works
 
-A scheduled job fetches the register daily and commits it to this repo whenever it changes — so the commit history becomes the change log. A second script diffs each new snapshot against the last one and picks out anything that actually matters (a project progressing a gate, a status change, a capacity change), ignoring noise like formatting differences.
+A scheduled job fetches the register daily and commits it to this repo whenever it changes, so the commit history becomes the change log. A second script diffs each new snapshot against the last one and picks out anything that actually matters (a project progressing a gate, a status change, a capacity change), ignoring noise like formatting differences.
 
 ## Latest changes
 
@@ -14,7 +14,7 @@ A scheduled job fetches the register daily and commits it to this repo whenever 
 
 ## What I found for the South West (B13)
 
-NESO caps this boundary at 2.9 GW. There's no public list of which substations count toward it, so I built one — cross-checking the register's naming against OpenStreetMap data — then joined it back to live queue data.
+NESO caps this boundary at 2.9 GW. There's no public list of which substations count toward it, so I built one, cross-checking the register's naming against OpenStreetMap data, then joined it back to live queue data.
 
 Turns out:
 - **1.14 GW (39%) is already built** — that's real usage against the limit.
