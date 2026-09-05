@@ -60,6 +60,22 @@ def to_float(value, default=0.0):
         return default
 
 
+def compute_breakdown(rows, field):
+    """Group rows by `field`, return dict of key -> summed capacity (MW)."""
+    totals = {}
+    for r in rows:
+        key = r.get(field) or "(blank)"
+        totals[key] = totals.get(key, 0.0) + to_float(r.get("Cumulative Total Capacity (MW)"))
+    return totals
+
+
+def print_breakdown(totals):
+    """Print a totals dict (from compute_breakdown), sorted by size."""
+    for key, mw in sorted(totals.items(), key=lambda kv: -kv[1]):
+        pct = (mw / B13_LIMIT_MW * 100) if B13_LIMIT_MW else 0
+        print(f"  - {key}: {mw:,.1f} MW ({pct:.0f}% of B13 limit)")
+
+
 def main():
     rows = load_register()
     b13_rows = [r for r in rows if r.get("Connection Site") in B13_SUBSTATIONS]
@@ -79,17 +95,43 @@ def main():
             f"Status: {r.get('Project Status', '?')}"
         )
 
-    pct_of_limit = (total_mw / B13_LIMIT_MW * 100) if B13_LIMIT_MW else 0
+    status_totals = compute_breakdown(b13_rows, "Project Status")
+    built_mw = status_totals.get("Built", 0.0)
+    remaining_headroom_mw = B13_LIMIT_MW - built_mw
+    pipeline_mw = total_mw - built_mw
+    oversubscription_ratio = (
+        pipeline_mw / remaining_headroom_mw if remaining_headroom_mw > 0 else float("inf")
+    )
 
     print(f"\n=== Summary ===")
-    print(f"Total queued capacity behind B13: {total_mw:,.1f} MW")
     print(f"B13 boundary limit (ETYS): {B13_LIMIT_MW:,.0f} MW")
-    print(f"Queued capacity as % of boundary limit: {pct_of_limit:.0f}%")
+    print(f"Already built and connected: {built_mw:,.1f} MW ({built_mw / B13_LIMIT_MW * 100:.0f}% of limit)")
+    print(f"Remaining headroom: {remaining_headroom_mw:,.1f} MW")
+    print(f"Pipeline requesting that headroom (everything not yet built): {pipeline_mw:,.1f} MW")
+    print(f"-> Pipeline is ~{oversubscription_ratio:.1f}x the capacity actually still available")
     print(
-        "\nNote: this is a naive sum of everything in the queue at these "
-        "substations, regardless of stage/status - it doesn't net off "
-        "withdrawn projects or account for projects already built and "
-        "energised. Useful as a first read, not a precise headroom figure."
+        f"\n(For reference, gross queued capacity as a naive % of the total boundary limit "
+        f"would be {total_mw / B13_LIMIT_MW * 100:.0f}% - but that figure double-counts capacity "
+        f"already used by built projects, so the headroom comparison above is more meaningful.)"
+    )
+
+    # Breakdown by Gate and Project Status: supporting detail behind the
+    # headline figures above.
+    print(f"\n=== Breakdown by Gate ===")
+    print_breakdown(compute_breakdown(b13_rows, "Gate"))
+
+    print(f"\n=== Breakdown by Project Status ===")
+    print_breakdown(status_totals)
+
+    gate2_plus_mw = sum(
+        to_float(r.get("Cumulative Total Capacity (MW)"))
+        for r in b13_rows
+        if to_float(r.get("Gate"), default=-1) >= 2
+    )
+    gate2_pct = (gate2_plus_mw / B13_LIMIT_MW * 100) if B13_LIMIT_MW else 0
+    print(
+        f"\nOf the total, Gate 2+ (more committed) capacity: "
+        f"{gate2_plus_mw:,.1f} MW ({gate2_pct:.0f}% of B13 limit)"
     )
 
     # Save the filtered project list for reference / further analysis
