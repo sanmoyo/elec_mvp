@@ -134,6 +134,21 @@ def main():
         f"{gate2_plus_mw:,.1f} MW ({gate2_pct:.0f}% of B13 limit)"
     )
 
+    # Save a dated snapshot so headroom can be tracked over time,
+    # same pattern as the changes/ folder.
+    import os
+    from datetime import date
+    os.makedirs("b13_reports", exist_ok=True)
+    report_path = f"b13_reports/{date.today().isoformat()}.md"
+    with open(report_path, "w") as f:
+        f.write(f"# B13 headroom report — {date.today().isoformat()}\n\n")
+        f.write(f"- B13 boundary limit: {B13_LIMIT_MW:,.0f} MW\n")
+        f.write(f"- Already built: {built_mw:,.1f} MW ({built_mw / B13_LIMIT_MW * 100:.0f}%)\n")
+        f.write(f"- Remaining headroom: {remaining_headroom_mw:,.1f} MW\n")
+        f.write(f"- Pipeline requesting headroom: {pipeline_mw:,.1f} MW\n")
+        f.write(f"- Oversubscription ratio: ~{oversubscription_ratio:.1f}x\n")
+    print(f"\n(Dated snapshot saved to {report_path})")
+
     # Save the filtered project list for reference / further analysis
     if b13_rows:
         fieldnames = list(b13_rows[0].keys())

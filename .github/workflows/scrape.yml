@@ -44,11 +44,15 @@ jobs:
         if: steps.commit.outputs.changed == 'true'
         run: python summarise_changes.py --git
 
-      - name: Commit summary report
+      - name: Run B13 report
+        if: steps.commit.outputs.changed == 'true'
+        run: python b13_report.py
+
+      - name: Commit summary and B13 reports
         if: steps.commit.outputs.changed == 'true'
         run: |
-          git add changes/
-          git commit -m "Add change summary $(date -u +%Y-%m-%d)"
+          git add changes/ b13_reports/ data/b13_queue.csv
+          git commit -m "Add change summary and B13 report $(date -u +%Y-%m-%d)"
 
       - name: Push
         if: steps.commit.outputs.changed == 'true'
