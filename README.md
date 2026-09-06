@@ -1,6 +1,6 @@
 # TEC Register Watch
 
-NESO's grid connection queue (the TEC register) updates twice a week, but there's no way to see what actually changed between updates, just a snapshot that gets silently overwritten. So I built something to track it, and then used it to answer a real question: how oversubscribed is the queue in the South West, actually?
+NESO's grid connection queue (the TEC register) updates twice a week, but there's no way to see what actually changed between updates, just a snapshot that gets silently overwritten. So I built something to track it, and then used it to answer a real question: how oversubscribed is the queue in the South West?
 
 ## How it works
 
