@@ -9,7 +9,7 @@ A scheduled job fetches the register daily and commits it to this repo whenever 
 ## Latest changes
 
 <!-- LATEST_REPORT_START -->
-*No report yet — check back after NESO's next update (Tuesdays/Fridays).*
+*No report yet: check back after NESO's next update (Tuesdays/Fridays).*
 <!-- LATEST_REPORT_END -->
 
 ## What I found for the South West (B13)
@@ -17,9 +17,9 @@ A scheduled job fetches the register daily and commits it to this repo whenever 
 NESO caps this boundary at 2.9 GW. There's no public list of which substations count toward it, so I built one, cross-checking the register's naming against OpenStreetMap data, then joined it back to live queue data.
 
 Turns out:
-- **1.14 GW (39%) is already built** — that's real usage against the limit.
+- **1.14 GW (39%) is already built**: that's real usage against the limit.
 - That leaves **~1.76 GW of actual headroom**.
-- The pipeline still trying to connect wants **~27.7 GW** — about **16x** what's left.
+- The pipeline still trying to connect wants **~27.7 GW**: about **16x** what's left.
 - None of it has reached a firm connection offer yet (Gate 2). It's all still speculative.
 
 (A naive queued-vs-limit calculation says 995%, but that double-counts what's already built. Headroom is the number that actually means something.)
