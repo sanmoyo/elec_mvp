@@ -1,58 +1,58 @@
 ﻿Project Name,Customer Name,Connection Site,Stage,MW Connected,MW Increase / Decrease,Cumulative Total Capacity (MW),MW Effective From,Project Status,Agreement Type,HOST TO,Plant Type,Project ID,Project Number,Gate
-Alverdiscott,PIVOTED POWER LLP,Alverdiscott 400kV Substation,1.00,0.00,49.90,49.90,2029-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ieSQAQ,PRO-001136-1,1
-Alverdiscott,PIVOTED POWER LLP,Alverdiscott 400kV Substation,2.00,0.00,50.10,100.00,2036-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ieSQAQ,PRO-001136-2,1
-Alverdiscott,XLINKS 1 LTD,Alverdiscott 400kV Substation,,0.00,1800.00,1800.00,2030-08-30,Scoping,Direct Connection,NGET,Interconnector,a0l4L0000005iwaQAA,PRO-001344,
-Alverdiscott 2,XLINKS 1 LTD,Alverdiscott 400kV Substation,,0.00,1800.00,1800.00,2032-08-30,Scoping,Direct Connection,NGET,Interconnector,a0l4L0000005iwbQAA,PRO-001345,
-Alverdiscott Farm,Alverdiscott 10 Renewables Ltd,Alverdiscott 400kV Substation,,0.00,1000.00,1000.00,2037-04-24,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L000002yQZtQAM,PRO-002554,
-Axminster,HB825AXM LTD,Axminster 132kV Substation,,0.00,120.00,120.00,2024-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixvQAA,PRO-001017,1
-Axminster,PIVOTED POWER LLP,Axminster 400kV Substation,,0.00,49.90,49.90,2027-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iufQAA,PRO-001143,1
-Axminster - New Connection,ENSO GREEN HOLDINGS B LIMITED,Axminster 132kV Substation,,0.00,120.00,120.00,2029-06-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixwQAA,PRO-001356,1
-Axminster BESS,CSE25 LIMITED,Axminster 132kV Substation,,0.00,150.00,150.00,2028-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixiQAA,PRO-001740,1
-Bridgwater (tertiary),ENSO GREEN HOLDINGS H LIMITED,Bridgwater 400/132kV Substation,,0.00,57.00,57.00,2028-08-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ilPQAQ,PRO-000375,
-Bridgwater Energy Park,EXAGEN GROUP LIMITED,Bridgwater GSP,,0.00,249.99,249.99,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HrhnAAC,PRO-004215,
-Celtic 2 Offshore Wind Farm,RWE Offshore Wind,Alverdiscott 400kV Substation,,0.00,1000.00,1000.00,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ia5QAA,PRO-002007,1
-Cormoran Offshore Wind Farm,South West Wind Holdco Limited,Alverdiscott 400kV Substation,,0.00,1008.00,1008.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iyQQAQ,PRO-002390,
-Equinor Celtic Sea 1,EQUINOR NEW ENERGY LIMITED,Alverdiscott 400kV Substation,,0.00,1000.00,1000.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l8e000000f8QCAAY,PRO-004037,1
-Exeter (Tertiary),PIVOTED POWER LLP,Exeter 400kV Substation,1.00,0.00,49.90,49.90,2028-06-16,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iz7QAA,PRO-001047-1,
-Exeter (Tertiary),PIVOTED POWER LLP,Exeter 400kV Substation,2.00,0.00,7.10,57.00,2036-12-06,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iz7QAA,PRO-001047-2,
-Exeter BESS,Exeter Storage Limited,Exeter 400kV Substation,1.00,0.00,290.00,290.00,2027-08-30,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ivyQAA,PRO-001666-1,
-Exeter BESS,Exeter Storage Limited,Exeter 400kV Substation,2.00,0.00,390.00,680.00,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ivyQAA,PRO-001666-2,
-Exeter BESS and PV (Post-Interactivity Revised Offer),Broadclyst Energy Storage Limited,Exeter Main 400kV Substation,,0.00,249.00,249.00,2029-12-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iNpQAI,PRO-001827,
-Exeter Main,ENSO GREEN HOLDINGS X LIMITED,Exeter 400kV Substation,,0.00,400.00,400.00,2033-10-28,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005idfQAA,PRO-002082,1
-Exeter Main Tertiary,EXETER MAIN BATTERY LIMITED,Exeter 400kV Substation,,0.00,57.00,57.00,2024-05-01,Scoping,Direct Connection,NGET,Thermal,a0l4L0000005izUQAQ,PRO-000452,
-Gallos,Corio Generation Limited,Alverdiscott 400kV Substation,,0.00,2000.00,2000.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l8e0000010wdVAAQ,PRO-002734,
-Green frog @ The Drove,VIRIDIS 178 LIMITED,Bridgwater 400/132kV Substation,,6.00,0.00,6.00,,Built,Embedded,NGET,OCGT (Open Cycle Gas Turbine),a0l4L0000005izgQAA,PRO-000245,
-Gwynt Glas Offshore Wind Farm,GWYNT GLAS OFFSHORE WIND FARM LIMITED,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iiyQAA,PRO-001772,1
-Gwynt Glas Offshore Wind Farm 2,GWYNT GLAS OFFSHORE WIND FARM LIMITED,Alverdiscott 400kV Substation,,0.00,1000.00,1000.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005j1NQAQ,PRO-002480,
-Hinkley Point B,EDF Energy Nuclear Generation Limited,Hinkley Point 400kV Substation,,0.00,0.00,0.00,,Built,Direct Connection,NGET,Nuclear,a0l4L0000005ioMQAQ,PRO-000141,
-Hinkley Point C,NNB GENERATION COMPANY (HPC) LIMITED,Shurton 400kV Substation,1.00,0.00,1670.00,1670.00,2029-03-31,Scoping,Direct Connection,NGET,Nuclear,a0l4L0000005idVQAQ,PRO-001674-1,
-Hinkley Point C,NNB GENERATION COMPANY (HPC) LIMITED,Shurton 400kV Substation,2.00,0.00,1670.00,3340.00,2030-07-31,Scoping,Direct Connection,NGET,Nuclear,a0l4L0000005idVQAQ,PRO-001674-2,
-Huntworth,UK POWER RESERVE LIMITED,Taunton GSP,,10.00,0.00,10.00,,Built,Embedded,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005iVxQAI,PRO-000254,
-Indian Queens,GRIDMOVE LTD,Indian Queens 400kV Substation,,0.00,437.00,437.00,2031-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ix9QAA,PRO-001676,1
-Indian Queens,INDIAN QUEENS POWER LIMITED,Indian Queens 400kV Substation,,140.00,0.00,140.00,,Built,Direct Connection,NGET,OCGT (Open Cycle Gas Turbine),a0l4L0000005iZDQAY,PRO-001372,
-Indian Queens,PIVOTED POWER LLP,Indian Queens 400kV Substation,,0.00,47.50,47.50,2024-07-30,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005iqfQAA,PRO-000225,
-Indian Queens Energy Centre,IQ ENERGY CENTRE LIMITED,Indian Queens 400kV Substation,,0.00,47.50,47.50,2027-05-30,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iZCQAY,PRO-001371,
-Landulph,PIVOTED POWER LLP,Landulph 400kV Substation,1.00,0.00,49.90,49.90,2026-05-18,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ifRQAQ,PRO-001131-1,
-Landulph,PIVOTED POWER LLP,Landulph 400kV Substation,2.00,0.00,7.10,57.00,2028-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ifRQAQ,PRO-001131-2,
-Langage,EP LANGAGE LIMITED,Langage 400kV Substation,,905.00,0.00,905.00,,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005itvQAA,PRO-000200,
-Langage 400,ENSO GREEN HOLDINGS X LIMITED,Langage 400kV Substation,1.00,0.00,200.00,200.00,2036-12-19,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005itlQAA,PRO-002192-1,1
-Langage 400,ENSO GREEN HOLDINGS X LIMITED,Langage 400kV Substation,2.00,0.00,100.00,300.00,2037-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005itlQAA,PRO-002192-2,1
-Langage 400,ENSO GREEN HOLDINGS X LIMITED,Langage 400kV Substation,3.00,0.00,100.00,400.00,2038-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005itlQAA,PRO-002192-3,1
-Langage Battery Storage,LANGAGE ENERGY PARK LIMITED,Langage 400kV Substation,,0.00,249.00,249.00,2031-10-30,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iaCQAQ,PRO-002016,
-Langage Farm,Langage 10 Renewables Limited,Langage 400kV Substation,,0.00,1000.00,1000.00,2037-12-19,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L000002yQaSQAU,PRO-002561,1
-Mererid Offshore Wind Farm,South West Wind Holdco Limited,Alverdiscott 400kV Substation,,0.00,1008.00,1008.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ivOQAQ,PRO-002391,
-Merlin 2 Offshore Windfarm,OFFSHORE WIND LIMITED,Alverdiscott 400kV Substation,,0.00,1500.00,1500.00,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iZbQAI,PRO-001997,1
-Merlin Offshore Wind Farm,OFFSHORE WIND LIMITED,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2028-11-01,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ihVQAQ,PRO-001728,1
-Morwind 300,Morwind Ltd,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ixtQAA,PRO-001787,
-Old Park Farm,STARLIGHT ENERGY UK LIMITED,Axminster 132kV Substation,,0.00,200.00,200.00,2038-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012kfgAAA,PRO-004719,
-Peak Gen Makro Exeter,PEAK GEN POWER 14 LIMITED,Exeter 132kV Substation,,20.00,0.00,20.00,,Built,Embedded,NGET,Reactive Compensation,a0l8e000000f4y5AAA,PRO-003904,
-Petroc Extension Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0.00,1000.00,1000.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iM5QAI,PRO-002404,
-Petroc Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2029-03-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005j1UQAQ,PRO-001661,1
-Plymouth Main,VIRIDIS 178 LIMITED,Landulph GSP,,25.52,0.00,25.52,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUlQAI,PRO-000362,
-Plymouth Rock,VIRIDIS 178 LIMITED,Landulph GSP,,15.08,0.00,15.08,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUmQAI,PRO-000363,
-SSE Celtic Sea 1,SSE RENEWABLES OFFSHORE WINDFARM HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0.00,1500.00,1500.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iyPQAQ,PRO-002405,
-St Dennis Hendra,SAMBAR POWER LIMITED,Indian Queens 400kV Substation,,0.00,47.50,47.50,2024-10-31,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ivrQAA,PRO-001133,
-Tale Lane Solar / A008 Langford,JBM SOLAR PROJECTS 2 LTD,Exeter GSP,,0.00,35.00,35.00,2025-04-15,Scoping,Embedded,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012gsXAAQ,PRO-004476,
-Taunton,PIVOTED POWER LLP,Taunton 400kV Substation,1.00,0.00,49.90,49.90,2031-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005icpQAA,PRO-001073-1,1
-Taunton,PIVOTED POWER LLP,Taunton 400kV Substation,2.00,0.00,50.10,100.00,2037-10-31,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005icpQAA,PRO-001073-2,1
-Water Lane,VIRIDIS 178 LIMITED,Exeter GSP,,20.88,0.00,20.88,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iVrQAI,PRO-000241,
+Alverdiscott,PIVOTED POWER LLP,Alverdiscott 400kV Substation,1,0,49.9,49.9,31/10/2029,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ieSQAQ,PRO-001136-1,1
+Alverdiscott,PIVOTED POWER LLP,Alverdiscott 400kV Substation,2,0,50.1,100,31/10/2036,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ieSQAQ,PRO-001136-2,1
+Alverdiscott,XLINKS 1 LTD,Alverdiscott 400kV Substation,,0,1800,1800,30/08/2030,Scoping,Direct Connection,NGET,Interconnector,a0l4L0000005iwaQAA,PRO-001344,
+Alverdiscott 2,XLINKS 1 LTD,Alverdiscott 400kV Substation,,0,1800,1800,30/08/2032,Scoping,Direct Connection,NGET,Interconnector,a0l4L0000005iwbQAA,PRO-001345,
+Alverdiscott Farm,Alverdiscott 10 Renewables Ltd,Alverdiscott 400kV Substation,,0,1000,1000,24/04/2037,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L000002yQZtQAM,PRO-002554,
+Axminster,HB825AXM LTD,Axminster 132kV Substation,,0,120,120,31/10/2024,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixvQAA,PRO-001017,1
+Axminster,PIVOTED POWER LLP,Axminster 400kV Substation,,0,49.9,49.9,31/10/2027,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iufQAA,PRO-001143,1
+Axminster - New Connection,ENSO GREEN HOLDINGS B LIMITED,Axminster 132kV Substation,,0,120,120,30/06/2029,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixwQAA,PRO-001356,1
+Axminster BESS,CSE25 LIMITED,Axminster 132kV Substation,,0,150,150,31/10/2028,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ixiQAA,PRO-001740,1
+Bridgwater (tertiary),ENSO GREEN HOLDINGS H LIMITED,Bridgwater 400/132kV Substation,,0,57,57,31/08/2028,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ilPQAQ,PRO-000375,
+Bridgwater Energy Park,EXAGEN GROUP LIMITED,Bridgwater GSP,,0,249.99,249.99,31/10/2037,Scoping,Direct Connection,NGET,Energy Storage System,a0l8e000001HrhnAAC,PRO-004215,
+Celtic 2 Offshore Wind Farm,RWE Offshore Wind,Alverdiscott 400kV Substation,,0,1000,1000,31/10/2031,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ia5QAA,PRO-002007,1
+Cormoran Offshore Wind Farm,South West Wind Holdco Limited,Alverdiscott 400kV Substation,,0,1008,1008,06/12/2036,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iyQQAQ,PRO-002390,
+Equinor Celtic Sea 1,EQUINOR NEW ENERGY LIMITED,Alverdiscott 400kV Substation,,0,1000,1000,06/12/2036,Scoping,Direct Connection,NGET,Wind Offshore,a0l8e000000f8QCAAY,PRO-004037,1
+Exeter (Tertiary),PIVOTED POWER LLP,Exeter 400kV Substation,1,0,49.9,49.9,16/06/2028,Awaiting Consents,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iz7QAA,PRO-001047-1,
+Exeter (Tertiary),PIVOTED POWER LLP,Exeter 400kV Substation,2,0,7.1,57,06/12/2036,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iz7QAA,PRO-001047-2,
+Exeter BESS,Exeter Storage Limited,Exeter 400kV Substation,1,0,290,290,30/08/2027,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005ivyQAA,PRO-001666-1,
+Exeter BESS,Exeter Storage Limited,Exeter 400kV Substation,2,0,390,680,31/10/2037,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005ivyQAA,PRO-001666-2,
+Exeter BESS and PV (Post-Interactivity Revised Offer),Broadclyst Energy Storage Limited,Exeter Main 400kV Substation,,0,249,249,31/12/2029,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iNpQAI,PRO-001827,
+Exeter Main,ENSO GREEN HOLDINGS X LIMITED,Exeter 400kV Substation,,0,400,400,28/10/2033,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005idfQAA,PRO-002082,1
+Exeter Main Tertiary,EXETER MAIN BATTERY LIMITED,Exeter 400kV Substation,,0,57,57,01/05/2024,Scoping,Direct Connection,NGET,Thermal,a0l4L0000005izUQAQ,PRO-000452,
+Gallos,Corio Generation Limited,Alverdiscott 400kV Substation,,0,2000,2000,06/12/2036,Scoping,Direct Connection,NGET,Wind Offshore,a0l8e0000010wdVAAQ,PRO-002734,
+Green frog @ The Drove,VIRIDIS 178 LIMITED,Bridgwater 400/132kV Substation,,6,0,6,,Built,Embedded,NGET,OCGT (Open Cycle Gas Turbine),a0l4L0000005izgQAA,PRO-000245,
+Gwynt Glas Offshore Wind Farm,GWYNT GLAS OFFSHORE WIND FARM LIMITED,Alverdiscott 400kV Substation,,0,300,300,31/10/2031,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iiyQAA,PRO-001772,1
+Gwynt Glas Offshore Wind Farm 2,GWYNT GLAS OFFSHORE WIND FARM LIMITED,Alverdiscott 400kV Substation,,0,1000,1000,06/12/2036,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005j1NQAQ,PRO-002480,
+Hinkley Point B,EDF Energy Nuclear Generation Limited,Hinkley Point 400kV Substation,,0,0,0,,Built,Direct Connection,NGET,Nuclear,a0l4L0000005ioMQAQ,PRO-000141,
+Hinkley Point C,NNB GENERATION COMPANY (HPC) LIMITED,Shurton 400kV Substation,1,0,1670,1670,31/03/2029,Scoping,Direct Connection,NGET,Nuclear,a0l4L0000005idVQAQ,PRO-001674-1,
+Hinkley Point C,NNB GENERATION COMPANY (HPC) LIMITED,Shurton 400kV Substation,2,0,1670,3340,31/07/2030,Scoping,Direct Connection,NGET,Nuclear,a0l4L0000005idVQAQ,PRO-001674-2,
+Huntworth,UK POWER RESERVE LIMITED,Taunton GSP,,10,0,10,,Built,Embedded,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005iVxQAI,PRO-000254,
+Indian Queens,GRIDMOVE LTD,Indian Queens 400kV Substation,,0,437,437,31/10/2031,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ix9QAA,PRO-001676,1
+Indian Queens,INDIAN QUEENS POWER LIMITED,Indian Queens 400kV Substation,,140,0,140,,Built,Direct Connection,NGET,OCGT (Open Cycle Gas Turbine),a0l4L0000005iZDQAY,PRO-001372,
+Indian Queens,PIVOTED POWER LLP,Indian Queens 400kV Substation,,0,47.5,47.5,30/07/2024,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005iqfQAA,PRO-000225,
+Indian Queens Energy Centre,IQ ENERGY CENTRE LIMITED,Indian Queens 400kV Substation,,0,47.5,47.5,30/05/2027,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005iZCQAY,PRO-001371,
+Landulph,PIVOTED POWER LLP,Landulph 400kV Substation,1,0,49.9,49.9,18/05/2026,Consents Approved,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ifRQAQ,PRO-001131-1,
+Landulph,PIVOTED POWER LLP,Landulph 400kV Substation,2,0,7.1,57,31/10/2028,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005ifRQAQ,PRO-001131-2,
+Langage,EP LANGAGE LIMITED,Langage 400kV Substation,,905,0,905,,Built,Direct Connection,NGET,CCGT (Combined Cycle Gas Turbine),a0l4L0000005itvQAA,PRO-000200,
+Langage 400,ENSO GREEN HOLDINGS X LIMITED,Langage 400kV Substation,1,0,200,200,19/12/2036,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005itlQAA,PRO-002192-1,1
+Langage 400,ENSO GREEN HOLDINGS X LIMITED,Langage 400kV Substation,2,0,100,300,31/10/2037,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005itlQAA,PRO-002192-2,1
+Langage 400,ENSO GREEN HOLDINGS X LIMITED,Langage 400kV Substation,3,0,100,400,31/10/2038,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L0000005itlQAA,PRO-002192-3,1
+Langage Battery Storage,LANGAGE ENERGY PARK LIMITED,Langage 400kV Substation,,0,249,249,30/10/2031,Scoping,Direct Connection,NGET,Energy Storage System,a0l4L0000005iaCQAQ,PRO-002016,
+Langage Farm,Langage 10 Renewables Limited,Langage 400kV Substation,,0,1000,1000,19/12/2037,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l4L000002yQaSQAU,PRO-002561,1
+Mererid Offshore Wind Farm,South West Wind Holdco Limited,Alverdiscott 400kV Substation,,0,1008,1008,06/12/2036,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ivOQAQ,PRO-002391,
+Merlin 2 Offshore Windfarm,OFFSHORE WIND LIMITED,Alverdiscott 400kV Substation,,0,1500,1500,31/10/2031,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iZbQAI,PRO-001997,1
+Merlin Offshore Wind Farm,OFFSHORE WIND LIMITED,Alverdiscott 400kV Substation,,0,300,300,01/11/2028,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ihVQAQ,PRO-001728,1
+Morwind 300,Morwind Ltd,Alverdiscott 400kV Substation,,0,300,300,31/10/2031,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005ixtQAA,PRO-001787,
+Old Park Farm,STARLIGHT ENERGY UK LIMITED,Axminster 132kV Substation,,0,200,200,31/10/2038,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012kfgAAA,PRO-004719,
+Peak Gen Makro Exeter,PEAK GEN POWER 14 LIMITED,Exeter 132kV Substation,,20,0,20,,Built,Embedded,NGET,Reactive Compensation,a0l8e000000f4y5AAA,PRO-003904,
+Petroc Extension Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0,1000,1000,06/12/2036,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iM5QAI,PRO-002404,
+Petroc Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0,300,300,31/03/2029,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005j1UQAQ,PRO-001661,1
+Plymouth Main,VIRIDIS 178 LIMITED,Landulph GSP,,25.52,0,25.52,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUlQAI,PRO-000362,
+Plymouth Rock,VIRIDIS 178 LIMITED,Landulph GSP,,15.08,0,15.08,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUmQAI,PRO-000363,
+SSE Celtic Sea 1,SSE RENEWABLES OFFSHORE WINDFARM HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0,1500,1500,06/12/2036,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iyPQAQ,PRO-002405,
+St Dennis Hendra,SAMBAR POWER LIMITED,Indian Queens 400kV Substation,,0,47.5,47.5,31/10/2024,Consents Approved,Direct Connection,NGET,Energy Storage System,a0l4L0000005ivrQAA,PRO-001133,
+Tale Lane Solar / A008 Langford,JBM SOLAR PROJECTS 2 LTD,Exeter GSP,,0,35,35,15/04/2025,Scoping,Embedded,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012gsXAAQ,PRO-004476,
+Taunton,PIVOTED POWER LLP,Taunton 400kV Substation,1,0,49.9,49.9,31/10/2031,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005icpQAA,PRO-001073-1,1
+Taunton,PIVOTED POWER LLP,Taunton 400kV Substation,2,0,50.1,100,31/10/2037,Awaiting Consents,Direct Connection,NGET,Energy Storage System,a0l4L0000005icpQAA,PRO-001073-2,1
+Water Lane,VIRIDIS 178 LIMITED,Exeter GSP,,20.88,0,20.88,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iVrQAI,PRO-000241,
