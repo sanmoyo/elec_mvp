@@ -20,7 +20,7 @@ Exeter Main,ENSO GREEN HOLDINGS X LIMITED,Exeter 400kV Substation,,0.00,400.00,4
 Exeter Main Tertiary,EXETER MAIN BATTERY LIMITED,Exeter 400kV Substation,,0.00,57.00,57.00,2024-05-01,Scoping,Direct Connection,NGET,Thermal,a0l4L0000005izUQAQ,PRO-000452,
 Gallos,Corio Generation Limited,Alverdiscott 400kV Substation,,0.00,2000.00,2000.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l8e0000010wdVAAQ,PRO-002734,
 Green frog @ The Drove,VIRIDIS 178 LIMITED,Bridgwater 400/132kV Substation,,6.00,0.00,6.00,,Built,Embedded,NGET,OCGT (Open Cycle Gas Turbine),a0l4L0000005izgQAA,PRO-000245,
-Gwynt Glas Offshore Wind Farm,GWYNT GLAS OFFSHORE WIND FARM LIMITED,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iiyQAA,PRO-001772,1
+Gwynt Glas Offshore Wind Farm,GWYNT GLAS OFFSHORE WIND FARM LIMITED,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2031-10-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iiyQAA,PRO-001772,1
 Gwynt Glas Offshore Wind Farm 2,GWYNT GLAS OFFSHORE WIND FARM LIMITED,Alverdiscott 400kV Substation,,0.00,1000.00,1000.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005j1NQAQ,PRO-002480,
 Hinkley Point C,NNB GENERATION COMPANY (HPC) LIMITED,Shurton 400kV Substation,1.00,0.00,1670.00,1670.00,2029-03-31,Scoping,Direct Connection,NGET,Nuclear,a0l4L0000005idVQAQ,PRO-001674-1,
 Hinkley Point C,NNB GENERATION COMPANY (HPC) LIMITED,Shurton 400kV Substation,2.00,0.00,1670.00,3340.00,2030-07-31,Scoping,Direct Connection,NGET,Nuclear,a0l4L0000005idVQAQ,PRO-001674-2,
@@ -44,7 +44,7 @@ Morwind 300,Morwind Ltd,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2031-1
 Old Park Farm,STARLIGHT ENERGY UK LIMITED,Axminster 132kV Substation,,0.00,200.00,200.00,2038-10-31,Scoping,Direct Connection,NGET,Energy Storage System;PV Array (Photo Voltaic/solar),a0l8e0000012kfgAAA,PRO-004719,
 Peak Gen Makro Exeter,PEAK GEN POWER 14 LIMITED,Exeter 132kV Substation,,20.00,0.00,20.00,,Built,Embedded,NGET,Reactive Compensation,a0l8e000000f4y5AAA,PRO-003904,
 Petroc Extension Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0.00,1000.00,1000.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iM5QAI,PRO-002404,
-Petroc Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005j1UQAQ,PRO-001661,1
+Petroc Offshore Wind Farm,BLUEFLOAT ENERGY UK HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0.00,300.00,300.00,2026-03-31,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005j1UQAQ,PRO-001661,1
 Plymouth Main,VIRIDIS 178 LIMITED,Landulph GSP,,25.52,0.00,25.52,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUlQAI,PRO-000362,
 Plymouth Rock,VIRIDIS 178 LIMITED,Landulph GSP,,15.08,0.00,15.08,,Built,Embedded,NGET,CHP (Combined Heat and Power),a0l4L0000005iUmQAI,PRO-000363,
 SSE Celtic Sea 1,SSE RENEWABLES OFFSHORE WINDFARM HOLDINGS LIMITED,Alverdiscott 400kV Substation,,0.00,1500.00,1500.00,2036-12-06,Scoping,Direct Connection,NGET,Wind Offshore,a0l4L0000005iyPQAQ,PRO-002405,
